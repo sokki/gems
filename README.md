@@ -6,6 +6,8 @@
 * daily js news (http://www.echojs.com/)
 * epic 4-minute talk (https://www.destroyallsoftware.com/talks/wat)
 * `nvm`: manage multiple node versions (https://github.com/creationix/nvm#usage)
+* awesome javascript link-list (https://github.com/sorrycc/awesome-javascript)
+* 'You Don't Know JS' book series (https://github.com/getify/You-Dont-Know-JS)
 
 ### ES6+
 
@@ -17,6 +19,7 @@
 * (obvious) Official Meteor Guide (https://guide.meteor.com/)
 * Meteor 1.3 + React 'boilerplate' (https://github.com/meteor/todos/tree/react)
 * WebSockets for everyone (https://www.cloudflare.com/websockets/)
+* Chrome Dev tools extension for Meteorjs apps (https://github.com/thebakeryio/meteor-devtools)
 
 ### modules
 
@@ -28,6 +31,8 @@
 
 
 # React
+
+* awesome react link-list (https://github.com/enaqx/awesome-react)
 
 ### UI-libs
 
